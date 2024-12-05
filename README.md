@@ -10,7 +10,7 @@ I'm Ergia from Indonesia
 
 
 ## 🛠️ My Tech Stack  
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 35px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 50px; text-align: center;">
   <!-- HTML -->
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="height: 50px; width: auto;">
   
