@@ -6,16 +6,16 @@ I'm Ergia from Indonesia
 - 🎮 Passionate about building interactive and engaging projects  
 - 🌟 Exploring Laravel, React and Tailwind CSS  
 
-## 🛠️ Skills  
-- **Languages**: JavaScript and PHP  
-- **Frameworks**: Laravel, Flutter, React  
-- **Tools**: Git, Figma  
+
+## 🛠️ My Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
 
 
 ## 📫 Contact Me  
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)  
 - Email: [YourEmail@example.com](mailto:YourEmail@example.com)
 
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
