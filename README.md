@@ -1,19 +1,16 @@
 # Hi there! 👋  
-I'm [Your Name]  
+I'm Ergia from Indonesia  
 
 ## 🚀 About Me  
-- 💻 Web, App, and Game Developer  
+- 💻 fullstack Web Developer  
 - 🎮 Passionate about building interactive and engaging projects  
-- 🌟 Exploring Unity, Laravel, Tailwind CSS  
+- 🌟 Exploring Laravel, React and Tailwind CSS  
 
 ## 🛠️ Skills  
-- **Languages**: JavaScript, C#, PHP  
-- **Frameworks**: Laravel, Flutter, Unity  
-- **Tools**: Git, Blender, Figma  
+- **Languages**: JavaScript and PHP  
+- **Frameworks**: Laravel, Flutter, React  
+- **Tools**: Git, Figma  
 
-## 🌟 Projects  
-1. **[Project 1 Name](link-to-project)**: Short description of the project  
-2. **[Project 2 Name](link-to-project)**: Short description of the project  
 
 ## 📫 Contact Me  
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)  
