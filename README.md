@@ -1,5 +1,3 @@
-![Banner](https://link-to-your-banner-image)
-
 # Hi there! 👋  
 I'm Ergia from Indonesia  
 
