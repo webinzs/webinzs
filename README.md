@@ -2,6 +2,7 @@
 I'm Ergia from Indonesia  
 
 ## 🚀 About Me  
+<img src="https://via.placeholder.com/900x300?text=Welcome+to+My+Profile" alt="Banner" width="100%">
 - 💻 fullstack Web Developer  
 - 🎮 Passionate about building interactive and engaging projects  
 - 🌟 Exploring Laravel, React and Tailwind CSS  
